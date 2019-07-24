@@ -1,0 +1,19 @@
+tableread package
+=================
+
+.. automodule:: tableread
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+tableread.writer module
+-----------------------
+
+.. automodule:: tableread.writer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
